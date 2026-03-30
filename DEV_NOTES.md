@@ -28,3 +28,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-23
 - Refactored module structure for clarity
+
+## 2026-03-30
+- Fixed minor edge case in input handling
+- Consolidated duplicate helper functions
