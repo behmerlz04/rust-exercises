@@ -32,3 +32,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Fixed minor edge case in input handling
 - Consolidated duplicate helper functions
+
+## 2026-03-30
+- Documented config options
